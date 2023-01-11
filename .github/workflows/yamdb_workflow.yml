@@ -61,7 +61,7 @@ jobs:
         with:
           context: ./api_yamdb/
           push: true
-          tags: ogurets13/yamdb_final:latest
+          tags: ogurets13/web:latest
 
   deploy:
     runs-on: ubuntu-latest
