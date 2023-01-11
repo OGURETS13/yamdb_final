@@ -1,3 +1,5 @@
+![This is a badge](https://github.com/OGURETS13/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 ## Описание 
 
 Это api который позволяет пользователям создавать и просматривать посты, комментарии к ним, а также подписываться на других пользователей 
