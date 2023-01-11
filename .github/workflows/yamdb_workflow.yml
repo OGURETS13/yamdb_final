@@ -59,7 +59,7 @@ jobs:
         # Пуш образа в Docker Hub 
         uses: docker/build-push-action@v2
         with:
-          context: .
+          context: ./api_yamdb/
           push: true
           tags: ogurets13/yamdb_final:latest
 
